@@ -1,4 +1,4 @@
-# Code refactoring for accesability
+# Code refactoring for accessibility
 https://krystlemurphy.github.io/codeRefactor/
 
 
